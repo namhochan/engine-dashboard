@@ -1,1 +1,16 @@
-
+{
+  "asof": "2026-02-03T06:00:00+09:00",
+  "kpi": {
+    "market_risk_level": 3,
+    "theme_strength_level": 4,
+    "trigger_counter": 17
+  },
+  "highlights": [
+    { "title": "상위 테마", "value": "HBM / CXL" },
+    { "title": "리포트 상태", "value": "OK" }
+  ],
+  "top_items": [
+    { "name": "LG화학", "signal": "HOLD", "note": "변동성 구간" },
+    { "name": "POSCO DX", "signal": "WATCH", "note": "수급 혼조" }
+  ]
+}
